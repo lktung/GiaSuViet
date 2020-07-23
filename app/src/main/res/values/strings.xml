@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gia Su Viet</string>
+    <string name="quenMatKhau"><u>Quên mật khẩu</u>.</string>
+    <string name="dangKy"><u>Đăng ký</u>.</string>
+</resources>
